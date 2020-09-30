@@ -2,6 +2,7 @@ function animatedform(){
     const arrows=document.querySelectorAll
     (".fa-arrow-down");
 
+
     arrows.forEach(arrow=>{
         arrow.addEventListener('click',()=>{
             const input=arrow.previousElementSibling;

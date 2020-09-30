@@ -8,6 +8,7 @@ body {
     height:100vh;
     display:flex;
     background-color:rgb(87,189,130);
+background-image: url("https://www.transparenttextures.com/patterns/diagmonds.png");
     transition:background 0.5s ease;
     position:relative;
 }
